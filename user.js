@@ -5,7 +5,7 @@ function User(tracker, torrent){
   let myTorrent = torrent;
   let torrentFile = [];
   let torrentTrackerFile=
-  let 
+  let State=seed 
 
 
 
